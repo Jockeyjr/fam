@@ -1,0 +1,106 @@
+#x1
+		{text-align: center;
+			text-decoration:overline;
+			color: black;
+			background-color: #f0f0f0}
+		
+#x2
+			{color: black;
+				font-style: oblique;
+			background-color: #f0f0f0}
+#x3
+		{color: black;
+			font-style: oblique;
+		background-color: #f0f0f0}
+#x4
+		{text-align: center;
+			text-decoration:overline;
+		    color: black;
+			font-style: bold;
+		background-color: #f0f0f0}
+ul 
+{list-style-type: disc;}
+#x6
+        {text-align: center;
+			text-decoration:overline;
+		    color: black;
+			font-style: bold;
+		background-color: #f0f0f0}
+
+#x7
+        {text-align: center;
+			text-decoration:overline;
+		    color: black;
+			font-style: bold;
+		background-color: #f0f0f0}
+#x8
+		{text-align: center;
+			text-decoration:overline;
+		    color: black;
+			font-style: bold;
+		background-color: #f0f0f0}
+
+#x9
+      {text-align: center;
+			text-decoration:overline;
+		    color: black;
+			font-style: bold;
+		background-color: #f0f0f0}
+#x10
+     {text-align: center;
+			text-decoration:overline;
+		    color: black;
+			font-style: bold;
+		background-color: #f0f0f0}
+		
+
+
+.image-container1 img {
+  max-width: 100%; /* Ensure images don't exceed their container's width */
+  height: 200px; /* Maintain aspect ratio */
+  margin: 20px; /* Add spacing between images */
+
+}
+.image-container2 img {
+  max-width: 100%; /* Ensure images don't exceed their container's width */
+  height: 200px; /* Maintain aspect ratio */
+  margin: 20px; /* Add spacing between images */
+}
+
+.image-container3 img {
+  max-width: 100%; /* Ensure images don't exceed their container's width */
+  height: 200px; /* Maintain aspect ratio */
+  margin: 20px; /* Add spacing between images */
+}
+.image-container4 img {
+  max-width: 100%; /* Ensure images don't exceed their container's width */
+  height: 200px; /* Maintain aspect ratio */
+  margin: 20px; /* Add spacing between images */ 
+}
+.image-container5 img {
+  max-width: 100%; /* Ensure images don't exceed their container's width */
+  height: 200px; /* Maintain aspect ratio */
+  margin: 20px; /* Add spacing between images */
+}
+.image-container6 img {
+  max-width: 100%; /* Ensure images don't exceed their container's width */
+  height: 200px; /* Maintain aspect ratio */
+  margin: 20px; /* Add spacing between images */
+}
+.image-container7 img {
+  max-width: 100%; /* Ensure images don't exceed their container's width */
+  height: 200px; /* Maintain aspect ratio */
+  margin: 20px; /* Add spacing between images */
+}
+.image-container8 img {
+  max-width: 100%; /* Ensure images don't exceed their container's width */
+  height: 200px; /* Maintain aspect ratio */
+  margin: 20px; /* Add spacing between images */
+}
+#D1
+{background: url("back3.jpg");
+	  background-size: cover;
+background-position: center;
+width: 1366px;
+height: 768px;
+position: absolute;}
